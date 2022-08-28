@@ -1,3 +1,5 @@
+https://nuxt-cf-test.ayame-nuxt.workers.dev/
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
@@ -39,4 +41,6 @@ Locally preview production build:
 npm run preview
 ```
 
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+Checkout the
+[deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more
+information.
